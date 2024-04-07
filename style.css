@@ -1,0 +1,21 @@
+*{
+    color: #fff 
+    ;
+
+}
+
+body{
+    background: #1d2630 ;
+}
+#Update{
+    display: none;
+}
+th,td{
+    background: #1d2630 !important;
+    color: #fff !important;
+}
+@media screen and (max-width:540px) {
+   .row{
+    overflow:scroll;
+   }
+}
